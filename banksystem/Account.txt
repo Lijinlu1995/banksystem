@@ -1,0 +1,5 @@
+123 305 zhang bupt 1993-08-17 true savor 0.0 0.0 false true false
+1234 43 zhou bupt 1993-08-17 true savor 0.0 100.0 false true false
+123488 814 123 123 1988-09-08 true junior 0.0 0.0 false true false
+999 555 m'm'm m'm'm 1993-04-09 true current 0.0 0.0 false true false
+123456 685 12 13 1990-11-10 true savor 0.0 0.0 false true false
